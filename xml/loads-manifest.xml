@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<manifest xmlns="http://library.lincoln.ac.nz/xmlns/sqlload">
+  
+  <mapping location="symplectic_xwalks_dspace_book.xsl" underlying="book">
+    <dspace type="Authored Book" />
+  </mapping>
+
+  <mapping location="symplectic_xwalks_dspace_journal.xsl" underlying="journal-article">
+    <dspace type="Journal Article" />
+  </mapping>
+
+  <mapping location="symplectic_xwalks_dspace_chapter.xsl" underlying="chapter">
+    <dspace type="Chapter in Book" />
+  </mapping>
+
+  <mapping location="symplectic_xwalks_dspace_thesis.xsl" underlying="thesis-dissertation" subtype="c-thesis-stypes-lu">
+    <dspace type="Thesis" subtype-source="thesis.degree.level">
+		<subtype match="Doctoral" value="Doctoral Thesis" />
+		<subtype match="Masters" value="Masters Thesis" />
+		<subtype match="Diploma" value="Other" />
+		<subtype match="Other" value="Other" />
+	</dspace>
+    <dspace type="Dissertation" subtype-value="Dissertation" />
+  </mapping>
+
+  <mapping location="symplectic_xwalks_dspace_conferenceposter.xsl" underlying="poster">
+    <dspace type="Conference Contribution - Poster Presentation" />
+  </mapping>
+
+  <mapping location="symplectic_xwalks_dspace_design.xsl" underlying="design">
+    <dspace type="Design Output" />
+  </mapping>
+
+  <mapping location="symplectic_xwalks_dspace_report.xsl" underlying="report" subtype="c-reports-stypes-lu">
+    <dspace type="Technical Report" subtype-value="Technical Report" />
+    <dspace type="Report for External Body" subtype-value="Commissioned Report" />
+    <dspace type="Commissioned Report for External Body" subtype-value="Commissioned Report" />
+  </mapping>
+
+  <mapping location="symplectic_xwalks_dspace_conference.xsl" underlying="conference" subtype="c-conferences-stype-lu">
+    <dspace type="Conference Contribution - Abstract" subtype-value="Conference Abstract" />
+    <dspace type="Conference Contribution - Full Conference Paper" subtype-value="Conference Paper" />
+    <dspace type="Conference Contribution - Oral Presentation" subtype-value="Conference Oral Presentation" />
+    <dspace type="Conference Contribution - Other" />
+    <dspace type="Conference Contribution - Paper in Published Proceedings" subtype-value="Conference Paper in Published Proceedings" />
+  </mapping>
+
+  <mapping location="symplectic_xwalks_dspace_popularpress.xsl" underlying="c-popular-press">
+    <dspace type="Popular Press / News Item" />
+  </mapping>
+
+  <mapping location="symplectic_xwalks_dspace_monograph.xsl" underlying="c-monograph">
+    <dspace type="Monograph" />
+    <dspace type="Edited Book" />
+  </mapping>
+
+  <mapping location="symplectic_xwalks_dspace_film.xsl" underlying="c-film-video">
+    <dspace type="Film/Video" />
+  </mapping>
+
+  <mapping location="symplectic_xwalks_dspace_oralpresentation.xsl" underlying="c-oral-presentation">
+    <dspace type="Oral Presentation" />
+  </mapping>
+
+  <mapping location="symplectic_xwalks_dspace_discussionpaper.xsl" underlying="c-paper">
+    <dspace type="Discussion Paper" />
+  </mapping>
+
+  <mapping location="symplectic_xwalks_dspace_workingpaper.xsl" underlying="c-paper-cloned">
+    <dspace type="Working Paper" />
+  </mapping>
+
+  <!-- don't bother for load as there are no matching items -->
+  <!--
+  <mapping location="symplectic_xwalks_dspace_scholarlyedition.xsl" underlying="scholarly-edition">
+    <dspace-name>Scholarly Edition</dspace-name>
+  </mapping>
+
+  <mapping location="symplectic_xwalks_dspace_exhibition.xsl" underlying="exhibition">
+    <dspace-name>Exhibition</dspace-name>
+  </mapping>
+  
+  <mapping location="symplectic_xwalks_dspace_performance.xsl" underlying="performance">
+    <dspace-name>Performance</dspace-name>
+  </mapping>
+
+  <mapping location="symplectic_xwalks_dspace_software.xsl" underlying="software">
+    <dspace-name>Software</dspace-name>
+  </mapping>
+
+  <mapping location="symplectic_xwalks_dspace_patent.xsl" underlying="patent">
+    <dspace-name>Patent</dspace-name>
+  </mapping>
+
+  <mapping location="symplectic_xwalks_dspace_bookreview.xsl" underlying="c-book-review">
+    <dspace-name>Book Review</dspace-name>
+  </mapping>
+
+  <mapping location="symplectic_xwalks_dspace_extensionactivity.xsl" underlying="c-extension-presentation">
+    <dspace-name>Published Extension</dspace-name>
+    <dspace-name>Extension Presentation</dspace-name>
+  </mapping>
+
+  -->
+
+</manifest>
