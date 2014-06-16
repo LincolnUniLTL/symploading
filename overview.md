@@ -6,6 +6,5 @@ After some very important configuration, the first step is [generating a bunch o
 
 * *TODO* *
 
-| | | |
+|  | [top](README.md) | [Next](assumptions.md "Assumptions") |
 :---- | :---: | ----: 
-|  | [top](README.md) | [Next](assumptions.md "Assumptions")
