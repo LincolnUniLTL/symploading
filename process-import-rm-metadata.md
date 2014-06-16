@@ -1,6 +1,6 @@
 ﻿## Import and clean RM metadata
 
-**File:** _[sql/rm-metadata-import-clean.sql]()_ (run); CSV extract of legacy metadata prepared for Elements import
+**File:** _[sql/rm-metadata-import-clean.sql](sql/rm-metadata-import-clean.sql)_ (run); CSV extract of legacy metadata prepared for Elements import
 
 **Input:** CSV extract of legacy metadata prepared for Elements import
 

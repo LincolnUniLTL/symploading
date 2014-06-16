@@ -1,6 +1,6 @@
 ﻿### Create and populate IR persons table
 
-**Files:** _[sql/persons-load.sql]()_ (run)
+**Files:** _[sql/persons-load.sql](sql/persons-load.sql)_ (run)
 
 **Output:** ir_persons table (new)
 

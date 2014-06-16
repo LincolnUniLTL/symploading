@@ -1,6 +1,6 @@
 ﻿### Manipulate some data in the interim metadata table
 
-**Files:** _[sql/metadata-clean.sql]()_ (run)
+**Files:** _[sql/metadata-clean.sql](sql/metadata-clean.sql)_ (run)
 
 **Output:** ir_metadata table (updated)
 

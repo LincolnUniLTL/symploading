@@ -1,6 +1,6 @@
 ﻿### Prepare matching names for links table
 
-**Files:** _[sql/links-prepare.sql]()_ (run); CSV extract of names and IDs; CSV export of name match candidates
+**Files:** _[sql/links-prepare.sql](sql/links-prepare.sql)_ (run); CSV extract of names and IDs; CSV export of name match candidates
 
 **Input:** CSV extract of names and IDs
 

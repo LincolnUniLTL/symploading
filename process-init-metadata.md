@@ -1,6 +1,6 @@
 ﻿### Create and populate an initial metadata holding table
 
-**Files:** [_XML directory_](xml/) (configure and run); [_sql/metadata-load.REFERENCE.sql_]() (reference and verify)
+**Files:** [_XML directory_](xml/) (configure and run); [_sql/metadata-load.REFERENCE.sql_](sql/metadata-load.REFERENCE.sql) (reference and verify)
 
 **Output:** ir_metadata table (new)
 

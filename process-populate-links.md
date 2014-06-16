@@ -1,6 +1,6 @@
 ﻿## Create and populate IR links table
 
-**Files:** _[sql/links-load.sql]()_ (run); manually processed CSV matches
+**Files:** _[sql/links-load.sql](sql/links-load.sql)_ (run); manually processed CSV matches
 
 **Input:** manually processed CSV matches
 
