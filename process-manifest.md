@@ -29,6 +29,5 @@ If required (i.e. you need to base subtypes on another DSpace field), you can cr
 
 That's about it.
 
-|||||
+[Previous](process-mappings.md "Finish your mappings") | [up](process.md) | [Next](process-init-metadata.md "Create and populate an initial metadata holding table") |
 :---- | :----: | ----:
-[Previous](process-mappings.md "Finish your mappings") | [up](process.md) | [Next](process-init-metadata.md "Create and populate an initial metadata holding table")

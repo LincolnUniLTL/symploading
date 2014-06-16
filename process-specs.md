@@ -8,6 +8,5 @@ Basically we want to end up with three CSV files to load into Elements:
 
 > This explanation is too simplistic and it is best to consult the Symplectic specification document ("Symplectic Elements - Standard Elements Importer"). Moreover, the specifications may change.
 
-|||||
+[Previous](process.md "The process outlined") | [up](process.md) | [Next](process-mappings.md "Finish your mappings") |
 :---- | :----: | ----:
-[Previous](process.md "The process outlined") | [up](process.md) | [Next](process-mappings.md "Finish your mappings")

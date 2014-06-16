@@ -13,6 +13,5 @@ Now we are simply running some SQL to:
 * import data into it from the CSV file
 * discard columns we no longer need
 
-|||||
+[Previous](process-match-names.md "Prepare matching names for links table") | [up](process.md) | [Next](process-import-rm-metadata.md "Import and clean RM metadata") |
 :---- | :----: | ----:
-[Previous](process-match-names.md "Prepare matching names for links table") | [up](process.md) | [Next](process-import-rm-metadata.md "Import and clean RM metadata")

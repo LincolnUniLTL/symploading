@@ -21,6 +21,5 @@ SELECT item_id, count(item_id) --, (SELECT ' ' || text_value FROM metadatavalue 
 
 Supports subtypes TODO * *
 
-|||||
+[Previous](overview.md "Our implementation") | [top](README.md) | [Next](requirements.md "Requirements") |
 :---- | :----: | ----:
-[Previous](overview.md "Our implementation") | [top](README.md) | [Next](requirements.md "Requirements")

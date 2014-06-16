@@ -13,6 +13,5 @@ We run SQL to create the table, import the CSV, and then there are some cleanup 
 * Our export came with lots of whitespace padding, so we trimmed it with an UPDATE statement.
 * Our legacy system stored ISSNs and ISBNs (both kinds) alike in the one field. We run an UPDATE using regex to separate these into their correct fields.
 
-|||||
+[Previous](process-populate-links.md "Create and populate IR links table") | [up](process.md) | [Next](FIXME.md "DESCRIBEME") |
 :---- | :----: | ----:
-[Previous](process-populate-links.md "Create and populate IR links table") | [up](process.md) | [Next](FIXME.md "DESCRIBEME")

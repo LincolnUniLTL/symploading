@@ -12,6 +12,5 @@ If you accept our [assumptions](assumptions.md), meet our [requirements](require
 * [Create and populate IR links table](process-populate-links.md)
 * [Import and clean RM metadata](process-import-rm-metadata.md)
 
-|||||
+[Previous](requirements.md "Requirements") | [top](README.md) | [Next](process-specs.md "Understand load file specifications and requirements") |
 :---- | :----: | ----:
-[Previous](requirements.md "Requirements") | [top](README.md) | [Next](process-specs.md "Understand load file specifications and requirements")

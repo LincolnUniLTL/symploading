@@ -10,6 +10,5 @@ Note that we drew author names from the `dc.contributor.author` element, whereas
 
 The last SQL statement, which populates the table, records the authors' database ID order ("order-number" column), which DSpace appears to use to sort them correctly.
 
-|||||
+[Previous](process-massage-metadata.md "Manipulate some data in the interim metadata table") | [up](process.md) | [Next](process-match-names.md "Prepare matching names for links table") |
 :---- | :----: | ----:
-[Previous](process-massage-metadata.md "Manipulate some data in the interim metadata table") | [up](process.md) | [Next](process-match-names.md "Prepare matching names for links table")

@@ -20,6 +20,5 @@ Someone needs to go through that file (using a printout and pen might be easier)
 
 > Note that this step will be different but far more trivial and automatic if your institutional repository already stores institional personal IDs.
 
-|||||
+[Previous](process-populate-persons.md "Create and populate IR persons table") | [up](process.md) | [Next](process-populate-links.md "Create and populate IR links table") |
 :---- | :----: | ----:
-[Previous](process-populate-persons.md "Create and populate IR persons table") | [up](process.md) | [Next](process-populate-links.md "Create and populate IR links table")

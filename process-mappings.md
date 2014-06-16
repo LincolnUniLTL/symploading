@@ -13,6 +13,5 @@ The crosswalk files are copyrighted to Symplectic, so at best I can highlight th
 	</crosswalks:mappings>
 ```
 
-|||||
+[Previous](process-specs.md "Understand load file specifications and requirements") | [up](process.md) | [Next](process-manifest.md "Create your load manifest") |
 :---- | :----: | ----:
-[Previous](process-specs.md "Understand load file specifications and requirements") | [up](process.md) | [Next](process-manifest.md "Create your load manifest")

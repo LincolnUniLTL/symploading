@@ -22,6 +22,5 @@ For example, loading with the command-line psql client is done with this meta-co
 
 As the statements execute, you'll get errors trying to create fields that already exist. Ignore those. You might also get a warning about the first DROP TABLE statement if you haven't run it before. Ignore.
 
-|||||
+[Previous](process-manifest.md "Create your load manifest") | [up](process.md) | [Next](process-massage-metadata.md "Manipulate some data in the interim metadata table") |
 :---- | :----: | ----:
-[Previous](process-manifest.md "Create your load manifest") | [up](process.md) | [Next](process-massage-metadata.md "Manipulate some data in the interim metadata table")

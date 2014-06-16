@@ -13,6 +13,5 @@ These SQL statements can be executed to tweak and clean the ir_metadata table we
 
 > Note that you may want to clean up other kinds of DSpace items, like withdrawn or protected items. I don't know enough of the DSpace database semantics to be able to do this reliably. If you deleted every item without a handle, that may have already taken care of them.
 
-|||||
+[Previous](process-init-metadata.md "Create and populate an initial metadata holding table") | [up](process.md) | [Next](process-populate-persons.md "Create and populate IR persons table") |
 :---- | :----: | ----:
-[Previous](process-init-metadata.md "Create and populate an initial metadata holding table") | [up](process.md) | [Next](process-populate-persons.md "Create and populate IR persons table")

@@ -11,6 +11,5 @@ This task might have taken different implementation directions and we may have f
 * I first thought as a solution to write Perl scripts (of course!). However, difficulties getting through our NTLM proxy to install modules (XML, CSV etc.) with PPM made that impractical.
 * There's a solution that might have worked more cleanly that I only considered after going too far down the track documented here. What if I had got an XML dump of DSpace metadata, then created and cleaned the CSV from that using XSLT? Outputting properly escaped CSV from XSLT might have been a challenge, however.
 
-|||||
+Previous | [top](README.md) | | |
 :---- | :----: | ----:
-Previous | [top](README.md) | |
